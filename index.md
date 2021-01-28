@@ -1,24 +1,65 @@
-# Hello!
+# Hello World!
 
-*This is Engineering Group 14's Dragon Boat Race Project!*
+This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 
 [Click here for assessment 2](https://KingzoSzn.github.io/assessment_2)  
 
 ## Resources
-[Requirements](https://xychic.github.io/files/Requirements.pdf)  
-[Architecture](https://drive.google.com/file/d/1d-CIJCtsxtkihBUMGUQc88yB6FNKCGJd/view?usp=sharing)  
-[Method](https://xychic.github.io/files/Method%20Selection%20and%20Planning.pdf)  
-[Risk](http://xychic.github.io/files/Risk%20Assessment%20and%20Mitigation.pdf)  
-[Implementation](https://drive.google.com/file/d/1MrjNDJ-twlbRo36Q-RlpFIDC9wfs4HUA/view?usp=sharing)  
-[ENG1-DragonBoatRace.jar](./files/ENG1-DragonBoatRace.jar)  
-[Source Code](https://github.com/Xychic/ENG1-DragonBoatRace)  
 
-## Weekly Snapshots
+### Documentation
+[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)  
+[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)  
+[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)  
+[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)  
+[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)  
+[Code Documentation](https://spanishforsalt.github.io/docs/)
 
-![image1](https://user-images.githubusercontent.com/72559948/99913817-a7452880-2cf1-11eb-822e-aa4a2ddf8a2f.png)
-![image2](https://user-images.githubusercontent.com/72559948/99913893-13c02780-2cf2-11eb-8232-82047dc70e75.png)
-![image3](https://user-images.githubusercontent.com/72559948/99913857-e4111f80-2cf1-11eb-9e4d-f056d78e5863.png)
-![image4](https://user-images.githubusercontent.com/72559948/99913869-fee39400-2cf1-11eb-8222-258c1bc8abc8.png)
-![image5](https://user-images.githubusercontent.com/72559948/99913930-49651080-2cf2-11eb-93ec-1d8906c1a238.png)
-![image6](https://user-images.githubusercontent.com/72559948/99913968-8204ea00-2cf2-11eb-98b4-e65bcec0861d.png)
-![image7](https://user-images.githubusercontent.com/72559948/99913995-a95bb700-2cf2-11eb-9bbb-a5fc2af7afaa.png)
+### Game Files
+[Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.jar)  
+[Exe Files](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.rar)  
+[Release](https://github.com/JoeWrieden/ENG1Project/releases/latest)  
+
+
+## Sprint Updates
+
+**15/10 - 22/10**  
+  
+<img src="https://user-images.githubusercontent.com/72558704/99911129-33ebe880-2cea-11eb-9769-46a48b1560f5.png">  
+
+This week we were slightly delayed getting the requirements written-up however we do not expect to go past the 28/10 complete date for these tasks.  
+  
+
+**23/10 - 29/10**  
+  
+<img src="https://user-images.githubusercontent.com/72558704/99911366-c5a82580-2ceb-11eb-8154-eb9737c171ef.png">  
+
+The requirements were completed by 29/10 which keeps us on track as planned. We have a breakdown of each task that needs to be completed and have planned accordingly. We have also discussed which methods and tools we will be using; this is yet to be written up however. Furthermore, we decided to start doing a Risk Assessment this week; sooner than anticipated in case the risks arise earlier.  
+  
+
+**30/10 - 05/11**  
+  
+<img src="https://user-images.githubusercontent.com/72558704/99911389-eb352f00-2ceb-11eb-83c6-fd771ef10de9.png">  
+  
+Having gotten a diagram for the Abstract Architecture completed, we started implementing as soon as possible as it appears writing about the Architecture is going to take us longer than expected. We've also completed the Risk Assessment and are in good place to identify and mitigate risks should they arise.  
+  
+
+**06/11 - 12/11**  
+  
+
+<img src="https://user-images.githubusercontent.com/72558704/99911541-1cfac580-2ced-11eb-8255-bac555408db2.png">  
+
+We have discussed our method and tool selection and have documented our Abstract and Concrete Architecture representations - though these need to be related to the requirements yet.  
+  
+
+**13/11 - 19/11**  
+  
+<img src="https://user-images.githubusercontent.com/72558704/99911785-93e48e00-2cee-11eb-8fa6-1c2648e760c7.png">  
+
+We have completed our representation of the Concrete Architecture as the Implementation is well under way; no changes to the Architecture of the game will be changed at this point. We are yet to discuss unimplemented requirements but that should be done over the weekend.  
+  
+  
+**19/11 - 25/11**  
+  
+<img src="https://user-images.githubusercontent.com/72558704/100144113-35561600-2e8e-11eb-92dc-711e96209e2a.png">  
+
+All the deliverables have been completed and submitted.  
