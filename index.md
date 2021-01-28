@@ -1,65 +1,65 @@
 # Hello World!
 
-This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
+This is where we Group 15 will be storing ourEngineering 1 (SEPR) project - Assessment 2
 
-[Click here for assessment 2](https://KingzoSzn.github.io/assessment_2)  
+[Click here for assessment 1](https://KingzoSzn.github.io/assessment_1)  
 
 ## Resources
 
-### Documentation
-[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)  
-[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)  
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)  
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)  
-[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)  
-[Code Documentation](https://spanishforsalt.github.io/docs/)
+### Assessment 1 Deliverables - Updated
+[Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
+[Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
+[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
+[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
+[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf) --Not Updated  
+[Code Documentation](https://xychic.github.io/files/docs/)
+
+
+### Assessment 2 Deliverables
+[Change Report](https://Spanishforsalt.github.io/pdfs/Req1.pdf) --Not Updated  
+[Continuous Integration Report](https://Spanishforsalt.github.io/pdfs/Arch1.pdf) --Not Updated  
+[Implementation Report](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
+[Testing Report](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
+[Code Documentation](https://xychic.github.io/files/docs/) -- Not Updated 
+
+
 
 ### Game Files
-[Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.jar)  
-[Exe Files](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.rar)  
-[Release](https://github.com/JoeWrieden/ENG1Project/releases/latest)  
+[Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar) -- Not Updated
+[Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip) -- Not Updated  
+[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz) -- Not updated
+
+## Weekly Snapshots
 
 
-## Sprint Updates
+![image1](https://user-images.githubusercontent.com/72559948/99913817-a7452880-2cf1-11eb-822e-aa4a2ddf8a2f.png)
+![image2](https://user-images.githubusercontent.com/72559948/99913893-13c02780-2cf2-11eb-8232-82047dc70e75.png)
+![image3](https://user-images.githubusercontent.com/72559948/99913857-e4111f80-2cf1-11eb-9e4d-f056d78e5863.png)
+![image4](https://user-images.githubusercontent.com/72559948/99913869-fee39400-2cf1-11eb-8222-258c1bc8abc8.png)
+![image5](https://user-images.githubusercontent.com/72559948/99913930-49651080-2cf2-11eb-93ec-1d8906c1a238.png)
+![image6](https://user-images.githubusercontent.com/72559948/99913968-8204ea00-2cf2-11eb-98b4-e65bcec0861d.png)
+![image7](https://user-images.githubusercontent.com/72559948/99913995-a95bb700-2cf2-11eb-9bbb-a5fc2af7afaa.png)
 
-**15/10 - 22/10**  
-  
-<img src="https://user-images.githubusercontent.com/72558704/99911129-33ebe880-2cea-11eb-9769-46a48b1560f5.png">  
+**24/12/20 - 31/12/20** 
 
-This week we were slightly delayed getting the requirements written-up however we do not expect to go past the 28/10 complete date for these tasks.  
-  
 
-**23/10 - 29/10**  
-  
-<img src="https://user-images.githubusercontent.com/72558704/99911366-c5a82580-2ceb-11eb-8154-eb9737c171ef.png">  
 
-The requirements were completed by 29/10 which keeps us on track as planned. We have a breakdown of each task that needs to be completed and have planned accordingly. We have also discussed which methods and tools we will be using; this is yet to be written up however. Furthermore, we decided to start doing a Risk Assessment this week; sooner than anticipated in case the risks arise earlier.  
-  
+![image8](https://user-images.githubusercontent.com/72558765/106135728-36dadd80-6160-11eb-914e-a1c10311abec.png)
 
-**30/10 - 05/11**  
-  
-<img src="https://user-images.githubusercontent.com/72558704/99911389-eb352f00-2ceb-11eb-83c6-fd771ef10de9.png">  
-  
-Having gotten a diagram for the Abstract Architecture completed, we started implementing as soon as possible as it appears writing about the Architecture is going to take us longer than expected. We've also completed the Risk Assessment and are in good place to identify and mitigate risks should they arise.  
-  
+**07/01/21 - 14/01/21** 
 
-**06/11 - 12/11**  
-  
 
-<img src="https://user-images.githubusercontent.com/72558704/99911541-1cfac580-2ced-11eb-8255-bac555408db2.png">  
 
-We have discussed our method and tool selection and have documented our Abstract and Concrete Architecture representations - though these need to be related to the requirements yet.  
-  
+![image9](https://user-images.githubusercontent.com/72558765/106135798-51ad5200-6160-11eb-9566-3d4316810f96.png)
 
-**13/11 - 19/11**  
-  
-<img src="https://user-images.githubusercontent.com/72558704/99911785-93e48e00-2cee-11eb-8fa6-1c2648e760c7.png">  
+**14/01/21 - 21/01/21**
 
-We have completed our representation of the Concrete Architecture as the Implementation is well under way; no changes to the Architecture of the game will be changed at this point. We are yet to discuss unimplemented requirements but that should be done over the weekend.  
-  
-  
-**19/11 - 25/11**  
-  
-<img src="https://user-images.githubusercontent.com/72558704/100144113-35561600-2e8e-11eb-92dc-711e96209e2a.png">  
 
-All the deliverables have been completed and submitted.  
+
+![image10](https://user-images.githubusercontent.com/72558765/106135827-57a33300-6160-11eb-8b28-68cc8e0431f8.png)
+)
+
+
+
+**21/01/21 - 28/01/21**
+
