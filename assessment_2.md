@@ -38,11 +38,15 @@
 ![image6](https://user-images.githubusercontent.com/72559948/99913968-8204ea00-2cf2-11eb-98b4-e65bcec0861d.png)
 ![image7](https://user-images.githubusercontent.com/72559948/99913995-a95bb700-2cf2-11eb-9bbb-a5fc2af7afaa.png)
 
-
+**24/12/20 - 31/12/20** 
 ![image8](https://user-images.githubusercontent.com/72558765/106135728-36dadd80-6160-11eb-914e-a1c10311abec.png)
 
+**07/01/21 - 14/01/21** 
 ![image9](https://user-images.githubusercontent.com/72558765/106135798-51ad5200-6160-11eb-9566-3d4316810f96.png)
 
-
+**14/01/21 - 21/01/21**
 ![image10](https://user-images.githubusercontent.com/72558765/106135827-57a33300-6160-11eb-8b28-68cc8e0431f8.png)
 )
+
+**21/01/21 - 28/01/21**
+
