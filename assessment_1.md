@@ -2,8 +2,6 @@
 
 This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 
-[Click here for assessment 2](https://KingzoSzn.github.io/assessment_2)  
-
 ## Resources
 
 ### Documentation
