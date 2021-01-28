@@ -44,13 +44,15 @@ This is where we Group 15 will be storing ourEngineering 1 (SEPR) project - Asse
 
 
 
-<img src=https://user-images.githubusercontent.com/72558765/106135728-36dadd80-6160-11eb-914e-a1c10311abec.png style="transform:rotate(90deg);">
+![image8](https://user-images.githubusercontent.com/72558765/106139235-182b1580-6165-11eb-9756-70c5064a8909.png)
+
 
 **07/01/21 - 14/01/21** 
 
 
 
-![image9](https://user-images.githubusercontent.com/72558765/106135798-51ad5200-6160-11eb-9566-3d4316810f96.png)
+![image9](https://user-images.githubusercontent.com/72558765/106139426-4f99c200-6165-11eb-9571-d2435e3d4432.png)
+
 
 **14/01/21 - 21/01/21**
 
