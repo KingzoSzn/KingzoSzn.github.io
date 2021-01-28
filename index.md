@@ -2,7 +2,7 @@
 
 *This is Engineering Group 14's Dragon Boat Race Project!*
 
-[Click here for assessment 2](https://xychic.github.io/assessment_2)  
+[Click here for assessment 2](https://KingzoSzn.github.io/assessment_2)  
 
 ## Resources
 [Requirements](https://xychic.github.io/files/Requirements.pdf)  
