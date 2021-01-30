@@ -43,9 +43,10 @@ This is where we Group 15 will be storing ourEngineering 1 (SEPR) project - Asse
 **24/12/20** 
 
 This is the first Gantt chart we produced, after the project details
-having been released. It was quite sparse as our first sprint
-consisted of getting to grips with the documentation and code of the
-team whose work we had taken on board.
+having been released. It was quite abstracted as our first sprint
+consisted of getting to grips with understanding the specifications
+of the new project, especially in terms of the documentation and code
+of Team 14, the team whose work we have taken on board.
 
 ![image8](https://user-images.githubusercontent.com/72558765/106139235-182b1580-6165-11eb-9756-70c5064a8909.png)
 
