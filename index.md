@@ -1,17 +1,20 @@
 # Hello World!
 
-This is where we Group 15 will be storing ourEngineering 1 (SEPR) project - Assessment 2
+This is where Team 15 (aka Area 51) will be storing the second part of our Engineering 1 (SEPR) project:
+Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 project.
 
-[Click here for assessment 1](https://KingzoSzn.github.io/assessment_1)  
+[click here for Team 15's original Assessment 1 project](https://Spanishforsalt.github.io/)  
+[click here for Team 14's original Assessment 1 project](https://xychic.github.io/)  
+
 
 ## Resources
 
-### Assessment 1 Deliverables - Updated
+### Assessment 1 Deliverables (Team 14's Assessment 1 Deliverables, Updated by Team 15)
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
 [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
 [Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
-[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf) --Not Updated  
+[Implementation](https://Spanishforsalt.github.io/pdfs/Impl1.pdf) --Not Updated  
 [Code Documentation](https://xychic.github.io/files/docs/)
 
 
