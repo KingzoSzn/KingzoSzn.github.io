@@ -10,9 +10,9 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 
 
 ## Resources
-
-### Assessment 1 Deliverables (Team 14's Assessment 1 Deliverables, Updated by Team 15)
 *Greenfield*
+#
+### Assessment 1 Deliverables (Team 14's Assessment 1 Deliverables, Updated by Team 15)
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
 [Method Selection and Planning](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
@@ -20,16 +20,16 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Implementation](https://KingzoSzn.github.io/pdfs/Impl1.pdf) --Not Updated  
 [Code Documentation](https://KingzoSzn.github.io/files/docs/)
 
-
-### Assessment 2 Deliverables
 *Brownfield*
+#
+### Assessment 2 Deliverables
 [Change Report](https://KingzoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Continuous Integration Report](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
 [Implementation Report](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
 [Testing Report](https://KingzoSzn.github.io/pdfs/Risk1.pdf) --Not Updated  
 [Code Documentation](https://KingzoSzn.github.io/files/docs/) -- Not Updated 
 
-### Game Files
+###  Assessment 2 Executables
 [Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar) -- Not Updated
 [Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip) -- Not Updated  
 [Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz) -- Not updated
