@@ -10,8 +10,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 
 
 ## Resources
-*Greenfield*
-#
+# *Greenfield*
 ### Assessment 1 Deliverables (Team 14's Assessment 1 Deliverables, Updated by Team 15)
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
@@ -20,8 +19,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Implementation](https://KingzoSzn.github.io/pdfs/Impl1.pdf) --Not Updated  
 [Code Documentation](https://KingzoSzn.github.io/files/docs/)
 
-*Brownfield*
-#
+# *Brownfield*
 ### Assessment 2 Deliverables
 [Change Report](https://KingzoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Continuous Integration Report](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
