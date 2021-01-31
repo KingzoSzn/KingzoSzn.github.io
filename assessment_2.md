@@ -2,15 +2,18 @@
 This is where Team 15 (aka Area 51) will be storing the second part of our Engineering 1 (SEPR) project:
 Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 project.
 
-
-
-[click here for Team 14's original Assessment 1 project](https://xychic.github.io/)  
-[click here for Team 15's changed versions of Team 14's Assessment 1 project deliverables](https://kingzoszn.github.io/#deliverables)  
-[click here for Team 15's changed versions of Team 14's Assessment 1 project executables](https://kingzoszn.github.io/#executables)  
-
 ## Project Resources
 ### Greenfield Assessment 1 Project Resources
-**Assessment 1 Deliverables** *- Team 14's Assessment 1 Deliverables, Updated by Team 15*\
+
+**Assessment 1 Original Deliverables** *- Team 14's Assessment 1 Deliverables, Unchanged*\
+[Requirements](https://xychic.github.io/pdfs/Req1.pdf) --Not Updated  
+[Architecture](https://xychic.github.io/pdfs/Arch1.pdf) --Not Updated  
+[Method Selection and Planning](https://xychic.github.io/pdfs/Plan1.pdf) --Not Updated  
+[Risk Assessment](https://xychic.github.io/pdfs/Risk1.pdf) --Not Updated  
+[Implementation](https://xychic.github.io/pdfs/Impl1.pdf) --Not Updated  
+[Code Documentation](https://xychic.github.io/files/docs/)
+
+**Assessment 1 Updated Deliverables** *- Team 14's Assessment 1 Deliverables, Updated by Team 15*\
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
 [Method Selection and Planning](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
