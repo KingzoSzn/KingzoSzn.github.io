@@ -3,8 +3,9 @@
 This is where Team 15 (aka Area 51) will be storing the second part of our Engineering 1 (SEPR) project:
 Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 project.
 
-[click here for Team 15's original Assessment 1 project](https://Spanishforsalt.github.io/)  
 [click here for Team 14's original Assessment 1 project](https://xychic.github.io/)  
+[click here for Team 15's changed versions of Team 14's Assessment 1 project deliverables](https://kingzoszn.github.io/#deliverables)  
+[click here for Team 15's changed versions of Team 14's Assessment 1 project executables](https://kingzoszn.github.io/#executables)  
 
 
 ## Resources
@@ -12,20 +13,18 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 ### Assessment 1 Deliverables (Team 14's Assessment 1 Deliverables, Updated by Team 15)
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
-[Implementation](https://Spanishforsalt.github.io/pdfs/Impl1.pdf) --Not Updated  
-[Code Documentation](https://xychic.github.io/files/docs/)
+[Method Selection and Planning](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
+[Risk Assessment](https://KingzoSzn.github.io/pdfs/Risk1.pdf) --Not Updated  
+[Implementation](https://KingzoSzn.github.io/pdfs/Impl1.pdf) --Not Updated  
+[Code Documentation](https://KingzoSzn.github.io/files/docs/)
 
 
 ### Assessment 2 Deliverables
-[Change Report](https://Spanishforsalt.github.io/pdfs/Req1.pdf) --Not Updated  
-[Continuous Integration Report](https://Spanishforsalt.github.io/pdfs/Arch1.pdf) --Not Updated  
-[Implementation Report](https://Spanishforsalt.github.io/pdfs/Plan1.pdf) --Not Updated  
-[Testing Report](https://Spanishforsalt.github.io/pdfs/Risk1.pdf) --Not Updated  
-[Code Documentation](https://xychic.github.io/files/docs/) -- Not Updated 
-
-
+[Change Report](https://KingzoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
+[Continuous Integration Report](https://KingzoSzn.github.io/pdfs/Arch1.pdf) --Not Updated  
+[Implementation Report](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
+[Testing Report](https://KingzoSzn.github.io/pdfs/Risk1.pdf) --Not Updated  
+[Code Documentation](https://KingzoSzn.github.io/files/docs/) -- Not Updated 
 
 ### Game Files
 [Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar) -- Not Updated
