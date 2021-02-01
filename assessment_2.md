@@ -51,7 +51,7 @@ consisted of getting to grips with understanding the specifications
 of the new project, especially in terms of the documentation and code
 of Team 14, the team whose work we have taken on board.
 
-![image8](https://user-images.githubusercontent.com/72558765/106139235-182b1580-6165-11eb-9756-70c5064a8909.png)
+![image8](https://user-images.githubusercontent.com/72558765/106139235-182b1580-6165-11eb-9756-70c5064a8909.png) REDO
 
 
 
