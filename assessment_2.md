@@ -104,10 +104,10 @@ the Testing document.
 Completed testing methods and finishing up testing evaluation.
 
 
-<img width="710" alt="final gantt chart" src="https://user-images.githubusercontent.com/72558765/106922690-3369c800-6705-11eb-8e22-ecd7a8f37253.png">
-
-
 **09/02/2021**
 Final checks on everything and made sure every deliverable and
 executable was linked to on the website.
+
+<img width="710" alt="final gantt chart" src="https://user-images.githubusercontent.com/72558765/106922690-3369c800-6705-11eb-8e22-ecd7a8f37253.png">
+
 
