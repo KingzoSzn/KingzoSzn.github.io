@@ -10,7 +10,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Architecture](https://github.com/KingzoSzn/KingzoSzn.github.io/blob/main/files/Architecture.docx.pdf)  
 [Method Selection and Planning](https://xychic.github.io/files/Method%20Selection%20and%20Planning.pdf)  
 [Risk Assessment and Mitigation](https://xychic.github.io/files/Risk%20Assessment%20and%20Mitigation.pdf)  
-[Implementation](https://github.com/KingzoSzn/KingzoSzn.github.io/blob/main/files/Implementation.docx.pdf)  
+[Implementation](https://KingzoSzn.github.io/files/Implementation.docx.pdf)  
 
 **Assessment 1 Updated Deliverables** *- Team 14's Assessment 1 Deliverables, Updated by Team 15*\
 [Requirements](https://KinzgoSzn.github.io/pdfs/Req1.pdf) --Not Updated  
