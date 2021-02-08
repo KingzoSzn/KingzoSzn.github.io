@@ -26,7 +26,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Implementation Report](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
 [Testing Report](https://KingzoSzn.github.io/pdfs/Risk1.pdf) --Not Updated  
 [Code Documentation](https://KingzoSzn.github.io/files/docs/) -- Not Updated  
-[Weekly Snapshots](#Weekly-Snapshots)
+[Weekly Snapshots](#weekly-snapshots)
 
 
 **Assessment 2 Executables** *- Implementation*\
