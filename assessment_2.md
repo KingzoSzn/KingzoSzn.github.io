@@ -29,6 +29,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Weekly Snapshots](#weekly-snapshots)  
 [JUnit Test Table](https://KingzoSzn.github.io/files/UnitTests.pdf)  
 [Manual Test Table](https://KingzoSzn.github.io/files/ManualTests.pdf)  
+[Tracability Matrix](https://KingzoSzn.github.io/files/TracabilityMatrix.pdf)  
 
 
 **Assessment 2 Executables** *- Implementation*\
