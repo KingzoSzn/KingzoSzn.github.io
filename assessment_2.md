@@ -26,15 +26,18 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Implementation Report](https://KingzoSzn.github.io/pdfs/Plan1.pdf) --Not Updated  
 [Testing Report](https://KingzoSzn.github.io/pdfs/Risk1.pdf) --Not Updated  
 [Code Documentation](https://KingzoSzn.github.io/files/docs/) -- Not Updated  
-[Weekly Snapshots](#weekly-snapshots)
-[JUnit Test Table](https://KingzoSzn.github.io/files/Unit Tests.pdf)
-[Manual Test Table](https://KingzoSzn.github.io/files/Manual Tests.pdf)
+[Weekly Snapshots](#weekly-snapshots)  
+[Tracability Matrix](https://KingzoSzn.github.io/files/TracabilityMatrix.pdf)  
+[JUnit Test Table](https://KingzoSzn.github.io/files/UnitTests.pdf)  
+[Manual Test Table](https://KingzoSzn.github.io/files/ManualTests.pdf)  
+
 
 
 **Assessment 2 Executables** *- Implementation*\
 [Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar) -- Not Updated
 [Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip) -- Not Updated  
-[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz) -- Not updated
+[Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz) -- Not updated  
+[User Manual](https://KingzoSzn.github.io/DragonBoatRaceUserManual)
 
 ## Weekly Snapshots
 
