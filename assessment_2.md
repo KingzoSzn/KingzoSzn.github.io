@@ -30,7 +30,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Tracability Matrix](https://KingzoSzn.github.io/files/TracabilityMatrix.pdf)  
 [JUnit Test Table](https://KingzoSzn.github.io/files/UnitTests.pdf)  
 [Manual Test Table](https://KingzoSzn.github.io/files/ManualTests.pdf)  
-[Gradle Test Report](https://github.com/KingzoSzn/KingzoSzn.github.io/tree/main/files/test-report)  
+[Gradle Test Report](https://KingzoSzn.github.io/files/test-report)  
 
 
 
