@@ -36,7 +36,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 
 
 **Assessment 2 Executables** *- Implementation*\
-[Jar File](https://github.com/Fluxticks/ENG1-DragonBoatRace/releases/download/v1.2/desktop-1.2.1.jar)  
+[Jar File](https://github.com/Fluxticks/ENG1-DragonBoatRace/releases/download/v1.2.1/desktop-1.2.1.jar)  
 [Source (zip)](https://github.com/Fluxticks/ENG1-DragonBoatRace/archive/v1.2.1.zip)  
 [Source (tar.gz)](https://github.com/Fluxticks/ENG1-DragonBoatRace/archive/v1.2.1.tar.gz)  
 [User Manual](https://KingzoSzn.github.io/DragonBoatRaceUserManual)  
