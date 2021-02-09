@@ -15,7 +15,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 ### Brownfield Assessment 2 Project Resources
 
 **Assessment 1 Updated Deliverables** *- Team 14's Assessment 1 Deliverables, Updated by Team 15*\
-[Requirements](https://KinzgoSzn.github.io/pdfs/Req2.pdf)  
+[Requirements](https://KingzoSzn.github.io/pdfs/Req2.pdf)  
 [Architecture](https://KingzoSzn.github.io/pdfs/Arch2.pdf)  
 [Method Selection and Planning](https://KingzoSzn.github.io/pdfs/Plan2.pdf)  
 [Risk Assessment and Mitigation](https://KingzoSzn.github.io/pdfs/Risk2.pdf)  
