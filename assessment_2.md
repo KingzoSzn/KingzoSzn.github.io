@@ -35,7 +35,7 @@ Greenfield - Assessment 2. We will be continuing on from Team 14's Asessment 1 p
 [Jar File](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/releases/download/1.3/DragonBoatRace-1.3.jar) -- Not Updated
 [Source (zip)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.zip) -- Not Updated  
 [Source (tar.gz)](https://github.com/Xychic/ENG1-DragonBoatRace-Assessment2/archive/1.3.tar.gz) -- Not updated  
-[User Manual](https://KingzoSzn.github.io//files/DragonBoatRaceUserManual.md)
+[User Manual](https://KingzoSzn.github.io/files/DragonBoatRaceUserManual.md)
 
 ## Weekly Snapshots
 
